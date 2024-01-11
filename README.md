@@ -13,3 +13,7 @@ This repository contains scripts used in our paper entitled "[Space-borne assess
 * `figure_reproduce/combined_data_set.csv` is the dataset integrating gas production, bottom-up emissions, number of detections, and annual CH4 emissions from the detected point sources.
 
 # Examples of detected methane plumes
+![](figs/examples.png)
+
+# Reference
+He, Tai-Long; Boyd, Ryan; Varon, Daniel; Turner, Alexander (Forthcoming 2024). Turkmenistan methane point source detections and retrievals from Landsat 5 (1986-2011) [Dataset]. Dryad. https://doi.org/10.5061/dryad.4mw6m90hp
