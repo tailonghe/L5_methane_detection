@@ -1,6 +1,8 @@
 # Landsat 5 methane super emitter detection using deep learning
 This repository contains scripts used in our paper entitled "[Space-borne assessment of the Soviet Union collapse on the methane slowdown](https://doi.org/10.31223/X5G67G)".
 
+##### Note: *The methane column retrieval code will be made available for non-commercial use upon request (GHGSAT Data and Products - Copyright © 2024 GHGSAT Inc. All rights reserved)*
+
 # Description
 * Folder `backend` contains scripts used by the detection of methane plumes and the information about Landsats/Sentinel-2 ImageCollections from Google Earth Engine.
 * Folder `figure_reproduce` contains auxiliary data files generaed by `figure3.ipynb` that are used to reproduce figures in the paper.
